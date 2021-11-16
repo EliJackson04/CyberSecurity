@@ -1,8 +1,4 @@
-# CyberSecurity
-
-# Ways You Can Be Attacked Online
-
-## Worms
+# Worms
 
 #### Worms can delete and modify files, install back doors, and replicate itself. Worms can also infect other computers while still on the original computer. 
 
