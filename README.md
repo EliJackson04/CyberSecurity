@@ -1,4 +1,3 @@
-# jellyfish 
-## by nyima
+# Jellyfish
 
 [Jellyfish](Jellyfish.md)
