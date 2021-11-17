@@ -7,11 +7,6 @@ spotted lagoon jellyfish are found in the atlantic ocean, they live in lagoons b
 
 ![spottedlagoonjelly](https://user-images.githubusercontent.com/94389138/142032947-d9f80147-b9ae-4425-a25c-719157418570.png)
 
-
-
-
-
 ### my reasources
 1. https://www.aquariumofpacific.org/onlinelearningcenter/species/spotted_lagoon_jelly 
 2. https://www.exoticaquaculture.com/spotted-lagoon-jellyfish
-
