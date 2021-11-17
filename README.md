@@ -2,5 +2,5 @@
 
 ## Links:
 * [Pandas] (README.md)
-* [Snow Leopards] ( )
-* 
+* [Snow Leopards] (README.md)
+* [Jelly Fish] ( )
