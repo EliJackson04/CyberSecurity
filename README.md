@@ -1,3 +1,3 @@
 # Snow Leopards
 
-[Snow Leopards] (Leopards.md)
+[Snow Leopards](Leopards.md)
