@@ -1,3 +1,3 @@
-# pandas
+# Jellyfish
 
-[Pandas](Pandas.md)
+[Jellyfish](Jellyfish.md)
