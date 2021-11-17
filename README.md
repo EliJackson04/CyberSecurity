@@ -1,3 +1,3 @@
 # Pandas
 
-[Pandas] (pandas.md)
+[Pandas] (Pandas.md)
